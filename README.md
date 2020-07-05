@@ -18,7 +18,10 @@ and then extract words that we care about, like
 
 ## Usage
 
-Read a static copy [here](https://github.com/juanantoniofm/letter_counting/blob/master/code/Letter%20Counting.ipynb)
+In this repository, you will find the code and the data used in this study.
+The code is available in a "Jupyter Notebook", a friendly interface for readable code.
+
+You can read a static copy of the notebook [here](https://github.com/juanantoniofm/letter_counting/blob/master/code/Letter%20Counting.ipynb)
 
 If you want to run it yourself:
 
