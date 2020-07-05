@@ -12,7 +12,7 @@ This notebook, also calculates a number of other variables, like
     rho (total strokes required to write a word)
     lenght (of the word)
 
-and then extract words that we care about, like
+and then extract words that we care about, like this example, plotting all the words (light blue) and the groups (A,B,C,D) of chosen words and their place.
 
 ![word_space](./word_space.png)
 
